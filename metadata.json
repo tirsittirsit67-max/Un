@@ -1,0 +1,6 @@
+{
+  "name": "UN Bridge — UN Jobs, Scholarships & International CV Studio",
+  "description": "Bilingual portal for United Nations job vacancies, education scholarships, fellowships, and an integrated international CV builder (UN P11, Europass, and Executive formats).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
